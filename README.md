@@ -1,4 +1,4 @@
-# firestore-export-import
+# firestore-port
 NPM module to export and import Firebase's Firestore data.
 
 ## Installation 
@@ -39,8 +39,6 @@ firestorePorter
 ```
 
 ### Get all collections data
-
-This is a 
 
 Pass in an array of collection names to get data from the collections.
 
