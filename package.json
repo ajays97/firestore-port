@@ -1,6 +1,6 @@
 {
-  "name": "fireport",
-  "version": "1.0.0",
+  "name": "firestore-port",
+  "version": "1.0.1",
   "description": "NPM module to export and import Firebase's Firestore data.",
   "main": "src/index.js",
   "scripts": {

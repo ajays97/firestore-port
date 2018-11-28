@@ -43,6 +43,6 @@ exports.import = (fileName, data = []) => {
  * Get Imported Data
  * @param {Array<string>} collectionArray
  */
-exports.imports = (collectionArray = []) => {
+exports.exports = (collectionArray = []) => {
     return exportService.getAllCollections(collectionArray);
 };

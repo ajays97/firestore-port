@@ -22,6 +22,6 @@ firestoreService.initializeApp(serviceAccount, 'https://bookbird-e4b6c.firebasei
 // })
 
 // Get all collections
-firestoreService.imports().then(collections => {
+firestoreService.exports(['authors']).then(collections => {
     console.log(JSON.stringify(collections));
 })
