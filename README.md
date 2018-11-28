@@ -1,6 +1,8 @@
 # firestore-port
 NPM module to export and import Firebase's Firestore data.
 
+[![npm version](https://badge.fury.io/js/firestore-port.svg)](https://www.npmjs.com/package/firestore-port)
+
 ## Installation 
 
 Install using [__npm__](https://www.npmjs.com/).
@@ -8,6 +10,7 @@ Install using [__npm__](https://www.npmjs.com/).
 ```sh
 npm install firestore-port
 ```
+[![NPM](https://nodei.co/npm/firestore-port.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/firestore-port/)
 
 ## Get Google Cloud Account Credentials from Firebase
 
